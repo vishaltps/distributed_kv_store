@@ -46,3 +46,5 @@ group :development do
   # gem "spring"
 end
 
+gem 'whenever', require: false
+gem 'sidekiq'
